@@ -1,1 +1,2 @@
-# Project-Portfolio
+Tutorial: Project-Portfolio
+This project is a personal portfolio website designed to create a dynamic and smooth browsing experience. It intelligently adapts the user interface as you scroll, like making the navigation bar appear differently or revealing a handy 'scroll to top' button. Content on the page gracefully fades or slides into view as you discover it, and navigation within the page happens with gentle, smooth transitions. Crucially, it uses efficient techniques to animate elements like skill bars, ensuring the website remains fast and responsive.
